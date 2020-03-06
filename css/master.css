@@ -56,9 +56,37 @@ width: 150px;
 .down-right{
   position: fixed;
   top:150px;
-  right:10px;
+  right:30px;
 }
 
 .icon{
   max-width: 50%;
+}
+
+.navtext {
+  padding-left: 15px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  text-align: justify;
+  color: white;
+}
+/*SECTION Contenidos del Blog*/
+.blog_area {
+  margin: 10px;
+  padding: 20px;
+}
+
+.blog_right_area{
+  padding: 10px;
+  background-color: #dae0e5;
+}
+
+.blog_content{
+  padding: 10px;
+  text-align: justify;
+}
+
+.blog_img{
+  padding-top:50px;
 }
