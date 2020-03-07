@@ -475,6 +475,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  margin-bottom: 20px;
 }
 
 .img-thumbnail {
@@ -4738,7 +4739,7 @@ input[type="button"].btn-block {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
-}
+  }
 
 .card > hr {
   margin-right: 0;

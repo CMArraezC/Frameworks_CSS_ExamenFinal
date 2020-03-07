@@ -54,7 +54,7 @@ width: 150px;
     }
 
 .down-right{
-  position: fixed;
+  position: absolute;
   top:150px;
   right:30px;
 }
@@ -63,6 +63,9 @@ width: 150px;
   max-width: 50%;
 }
 
+.small-icon {
+  max-width: 40px;
+}
 .navtext {
   padding-left: 15px;
   padding-right: 10px;
@@ -87,6 +90,8 @@ width: 150px;
   text-align: justify;
 }
 
-.blog_img{
-  padding-top:50px;
+.list-group-uncolor{
+  	background-color: #dae0e5;
+    align-items: center;
+    text-align: center;
 }
