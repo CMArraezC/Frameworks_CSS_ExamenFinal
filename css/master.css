@@ -5,6 +5,12 @@
   padding: 10px 20px;
 }
 
+.headerfood {
+  overflow: hidden;
+  background-color:	rgba(218, 224, 229, 0.8);
+  padding: 10px 20px;
+}
+
 /* Style the header links */
 .header a {
   float: left;
@@ -60,12 +66,19 @@ width: 150px;
 }
 
 .icon{
-  max-width: 50%;
+  max-width: 70%;
+  padding-top: 30px;
 }
+
+
+.downbutton{
+  padding-top: 30px;
+  }
 
 .small-icon {
   max-width: 40px;
 }
+
 .navtext {
   padding-left: 15px;
   padding-right: 10px;
@@ -80,6 +93,11 @@ width: 150px;
   padding: 20px;
 }
 
+.fb_section{
+  background-color: rgba(255, 255, 200, 0.5);
+  border-radius: 10px;
+
+}
 .blog_right_area{
   padding: 10px;
   background-color: #dae0e5;
@@ -94,4 +112,28 @@ width: 150px;
   	background-color: #dae0e5;
     align-items: center;
     text-align: center;
+}
+
+.lista{
+  color: black;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-family: 'Shadows Into Light';
+}
+
+.main-title {
+font-family: 'Shadows Into Light', cursive;
+}
+
+.imgfood {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+}
+
+.sinfondo {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  padding: 10px;
+  background-color: rgba(255, 255, 200, 0);
 }
