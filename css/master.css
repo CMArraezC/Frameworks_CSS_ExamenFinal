@@ -70,6 +70,14 @@ width: 150px;
   padding-top: 30px;
 }
 
+.buttomtop{
+  margin-top: 5px;
+}
+
+.imgtop{
+  margin-top: 15px;
+  border: 2px solid #dae0e5;
+}
 
 .downbutton{
   padding-top: 30px;
@@ -125,6 +133,44 @@ width: 150px;
 font-family: 'Shadows Into Light', cursive;
 }
 
+.tourislogan{
+  margin-top: 100px;
+  text-align: left;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5vw;
+  color: #80deea;
+   text-shadow: 2px 1px 1px black;
+}
+
+.tourislogan_sm{
+  margin-top: 10px;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 8vw;
+  color: #80deea ;
+  text-shadow: 1px 1px 1px black;
+}
+
+.tourism_subtitle{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+}
+
+.names{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 30px;
+  color: #00897b;
+}
+
+.voyage{
+  padding-bottom: 10px;
+}
+
+.container_p{
+  padding-bottom: 30px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
 .imgfood {
   width: 100%;
   height: auto;
